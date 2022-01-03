@@ -3,7 +3,7 @@
     <img src"=https://img.shields.io/badge/Twitter-Nemu627-blue?logo=Twitter" />
   </a>
   <a href="http://twitter.com/Nemu627">
-    <img height="20" src="https://img.shields.io/twitter/follow/yutkat?label=Twitter&logo=twitter&style=flat" />
+    <img height="20" src="https://img.shields.io/twitter/follow/Nemu627?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/yutkat">
     <img height="20" src="https://img.shields.io/github/followers/yutkat?label=follow&logo=github&style=flat" />
