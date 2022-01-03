@@ -1,9 +1,9 @@
 <p align="left"> 
+  <a href="https://github.com/Nemu627">
+    <img height="20" src="https://img.shields.io/badge/Github-Nemu627-Nemu627?logo=github&style=flat&color=171515" />
+  </a>
   <a href="http://twitter.com/Nemu627">
     <img height="20" src="https://img.shields.io/badge/Twitter-Nemu627-Nemu627?logo=twitter&style=flat&color=00acee" />
-  </a>
-  <a href="https://github.com/Nemu627">
-    <img height="20" src="https://img.shields.io/github/followers/Nemu627?label=follow&logo=github&style=flat&color=171515" />
   </a>
   <a href="https://www.reddit.com/user/yutkat">
     <img height="20" src="https://img.shields.io/reddit/user-karma/combined/yutkat?label=Reddit&logo=reddit&style=flat" />
