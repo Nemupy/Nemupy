@@ -1,6 +1,6 @@
 <p align="left"> 
   <a href="http://twitter.com/Nemu627">
-    <img height="20" src="https://img.shields.io/twitter/follow/Nemu627?label=Twitter&logo=twitter&style=flat&color=00acee" />
+    <img height="20" src="https://img.shields.io/badge/Twitter-Nemu627-Nemu627?logo=twitter&style=flat&color=00acee" />
   </a>
   <a href="https://github.com/Nemu627">
     <img height="20" src="https://img.shields.io/github/followers/Nemu627?label=follow&logo=github&style=flat&color=171515" />
