@@ -7,7 +7,10 @@
   </a>
   <a href="https://www.youtube.com/channel/UC__UciLKa61MymGRfA7IGxg">
     <img height="20" src="https://img.shields.io/badge/YouTube-%E9%9F%B3%E5%A4%A2%3F%21-Nemu627?logo=youtube&style=flat&color=c4302b" />
-  </a>    
+  </a>
+  <a href="https://discord.gg/5fHDJwVhWb">
+    <img height="20" src="https://img.shields.io/badge/Discord-%E1%9E%A0%D2%BD%CA%8D%D5%B4%C6%93%C4%85%D5%B2%D6%81-Nemu627?logo=discord&style=flat&color=7289DA" />
+  </a>  
 
 <img src="https://github-widgetbox.vercel.app/api/profile?username=Nemu627&data=followers,repositories,stars,commits">  
 <p align="left"> 
