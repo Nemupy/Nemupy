@@ -6,7 +6,7 @@
     <img height="20" src="https://img.shields.io/badge/Twitter-Nemu627-Nemu627?logo=twitter&style=flat&color=00acee" />
   </a>
   <a href="https://www.youtube.com/channel/UC__UciLKa61MymGRfA7IGxg">
-    <img height="20" src="https://img.shields.io/badge/YouTube-"音夢?!"-Nemu627?logo=youtube&style=flat&color=00acee" />
+    <img height="20" src="https://img.shields.io/badge/YouTube-%E9%9F%B3%E5%A4%A2%3F%21-Nemu627?logo=youtube&style=flat&color=c4302b" />
   </a>    
 
 <img src="https://github-widgetbox.vercel.app/api/profile?username=Nemu627&data=followers,repositories,stars,commits">  
