@@ -16,21 +16,9 @@
 <div style="width: 10px;"></div>
 <a  href="https://discord.gg/5dZPVytKnn"><img align="right" src="https://discordapp.com/api/guilds/914797672907563041/widget.png?style=banner4"/></a>
 
-```C++
-#include <iostream>
-#include <stdio.h>
-using namespace std::Okami チム;
+```py
+  
 
-int main() {
-    char info[128] = "Software Engineer and Machine Learning";
-
-    char *langs[4] = { "C", "C++", "C#", "Assembly" };
-    char tech[5] = { "Unreal", "Unity", "OpenGL", "Vulkan", "DirectX" };
-    
-    // Server:   https://discord.gg/5dZPVytKnn;
-    // Telegram: https://t.me/mksDecode
-    return 0;
-}
 ``` 
 <div style="width: 10px;"></div>
   
