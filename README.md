@@ -14,7 +14,7 @@
     <img height="20" src="https://img.shields.io/badge/Discord-%E1%9E%A0%D2%BD%CA%8D%D5%B4%C6%93%C4%85%D5%B2%D6%81-Nemu627?logo=discord&style=flat&color=7289DA" />
   </a>  
 <div style="width: 10px;"></div>
-<a  href="https://discord.gg/5dZPVytKnn"><img align="right" src="https://discordapp.com/api/guilds/914797672907563041/widget.png?style=banner4"/></a>
+<a  href="https://discord.gg/5fHDJwVhWb"><img align="right" src="https://discordapp.com/api/guilds/902525668615663636/widget.png?style=banner4"/></a>
 
 ```py
   
