@@ -1,5 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e96443,100:904e95&height=200&text=%F0%9F%91%80%20%EF%BC%9C%20Hi!%20I%27m%20%E8%8D%89%E3%81%96%E3%81%93%20Programmer!&fontSize=24&fontAlignY=40&fontColor=FFFFFF" alt="header" width="100%" />
-<p align="center"> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e96443,100:904e95&height=200&text=%F0%9F%91%80%20%EF%BC%9C%20Hi!%20I%27m%20%E8%8D%89%E3%81%96%E3%81%93%20Programmer!&fontSize=24&fontAlignY=40&fontColor=FFFFFF" alt="header" width="100%">
+
+<div align="center"> 
   <a href="https://github.com/Nemu627">
     <img height="20" src="https://img.shields.io/badge/Github-Nemu627-Nemu627?logo=github&style=flat&color=171515" />
   </a>
@@ -12,7 +13,27 @@
   <a href="https://discord.gg/5fHDJwVhWb">
     <img height="20" src="https://img.shields.io/badge/Discord-%E1%9E%A0%D2%BD%CA%8D%D5%B4%C6%93%C4%85%D5%B2%D6%81-Nemu627?logo=discord&style=flat&color=7289DA" />
   </a>  
+<div style="width: 10px;"></div>
+<a  href="https://discord.gg/5dZPVytKnn"><img align="right" src="https://discordapp.com/api/guilds/914797672907563041/widget.png?style=banner4"/></a>
 
+```C++
+#include <iostream>
+#include <stdio.h>
+using namespace std::Okami チム;
+
+int main() {
+    char info[128] = "Software Engineer and Machine Learning";
+
+    char *langs[4] = { "C", "C++", "C#", "Assembly" };
+    char tech[5] = { "Unreal", "Unity", "OpenGL", "Vulkan", "DirectX" };
+    
+    // Server:   https://discord.gg/5dZPVytKnn;
+    // Telegram: https://t.me/mksDecode
+    return 0;
+}
+``` 
+<div style="width: 10px;"></div>
+  
 <img src="https://github-widgetbox.vercel.app/api/profile?username=Nemu627&data=followers,repositories,stars,commits">  
 <p align="left"> 
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Nemu627&show_icons=ture&bg_color=100,e96443,904e95&title_color=fff&text_color=fff" />
