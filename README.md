@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e96443,100:904e95&height=200&text=%F0%9F%91%80%20%EF%BC%9C%20Hi!%20I%27m%20%E8%8D%89%E3%81%96%E3%81%93%20Programmer!&fontSize=24&fontAlignY=40&fontColor=FFFFFF" alt="header" width="100%" />
-<p align="left"> 
+<p align="center"> 
   <a href="https://github.com/Nemu627">
     <img height="20" src="https://img.shields.io/badge/Github-Nemu627-Nemu627?logo=github&style=flat&color=171515" />
   </a>
