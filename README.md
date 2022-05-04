@@ -27,4 +27,4 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Nemu627&show_icons=ture&bg_color=100,e96443,904e95&title_color=fff&text_color=fff" />
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nemu627&layout=compact&show_icons=true&bg_color=100,904e95,e96443&title_color=fff&text_color=fff" />
 </p>  
-<iframe src="https://discord.com/widget?id=902525668615663636&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<iframe src="https://discord.com/widget?id=902525668615663636&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts">a</iframe>
