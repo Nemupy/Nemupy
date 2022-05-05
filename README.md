@@ -24,7 +24,6 @@
 ```py
 import random
 
-
 class MyProfile:
     def __init__(self):
         self.name = "音夢?!"
@@ -36,7 +35,6 @@ class MyProfile:
         print(f"Hello! I'm {self.name}.")
         print(f"I love {self.langs[0]}, and more!")
         print(f"Please check https://github.com/Nemu627/{repo}.")
-
 
 Nemu = MyProfile()
 Nemu.hello()
