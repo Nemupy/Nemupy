@@ -17,11 +17,9 @@
 
 <br>
 
-<div style="width: 10px;">
-  <a href="https://discord.gg/5fHDJwVhWb">
-    <img align="right" src="https://discordapp.com/api/guilds/902525668615663636/widget.png?style=banner4">
-  </a>
-</div>
+<a href="https://discord.gg/5fHDJwVhWb">
+  <img align="right" height="300px" src="https://discordapp.com/api/guilds/902525668615663636/widget.png?style=banner4">
+</a>
 
 ```py
 import random
@@ -34,17 +32,15 @@ class MyProfile:
         self.repos = ["CuBot-Discord", "Janken", "Hello-World","UA-framer", "Str-measure", "Publiscord"]
 
     def hello(self):
+        repo = random.choice(self.repos)
         print(f"Hello! I'm {self.name}.")
         print(f"I love {self.langs[0]}, and more!")
-        repo = random.choice(self.repos)
         print(f"Please check https://github.com/Nemu627/{repo}.")
 
 
 Nemu = MyProfile()
 Nemu.hello()
-
 ```
-<div style="width: 10px;"></div>
 
 <img src="https://github-widgetbox.vercel.app/api/profile?username=Nemu627&data=followers,repositories,stars,commits">
 
