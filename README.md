@@ -29,6 +29,7 @@ class MyProfile:
         self.name = "音夢?!"
         self.langs = ["Python", "JavaScript", "Java", "Ruby"]
         self.repos = ["CuBot-Discord", "Janken", "Hello-World","UA-framer", "Str-measure", "Publiscord"]
+        
     def hello(self):
         repo = random.choice(self.repos)
         print(f"Hello! I'm {self.name}.")
