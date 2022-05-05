@@ -18,7 +18,7 @@
 <br>
 
 <a href="https://discord.gg/5fHDJwVhWb">
-  <img align="right" height="300px" src="https://discordapp.com/api/guilds/902525668615663636/widget.png?style=banner4">
+  <img align="right" src="https://discordapp.com/api/guilds/902525668615663636/widget.png?style=banner4">
 </a>
 
 ```py
