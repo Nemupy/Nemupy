@@ -15,26 +15,29 @@
   </a>
 </div>
 
+<br>
+
 <div style="width: 10px;">
   <a href="https://discord.gg/5fHDJwVhWb">
     <img align="right" src="https://discordapp.com/api/guilds/902525668615663636/widget.png?style=banner4">
   </a>
 </div>
 
-<div style="width: 10px;">
-  ```py
+```py
   class MyProfile:
       def __init__(self):
           self.name = "音夢?!"
           self.langs = ["Python", "JavaScript", "Java", "Ruby"]
+          
       def hello(self):
           print(f"Hello! I'm {self.name}.")
           print(f"I love {self.langs[0]}, and more!")
 
+
   Nemu = MyProfile()
   Nemu.hello()
-  ```
-</div>
+```
+<div style="width: 10px;"></div>
 
 <img src="https://github-widgetbox.vercel.app/api/profile?username=Nemu627&data=followers,repositories,stars,commits">
 
