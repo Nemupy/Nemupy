@@ -1,8 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e96443,100:904e95&height=200&text=%F0%9F%91%80%20%EF%BC%9C%20Hi!%20I%27m%20%E8%8D%89%E3%81%96%E3%81%93%20Programmer!&fontSize=24&fontAlignY=40&fontColor=FFFFFF" alt="header" width="100%">
 
 <div align="center">
-  <a href="https://github.com/Nemu627">
-    <img height="20" src="https://img.shields.io/badge/Github-Nemu627-Nemu627?logo=github&style=flat&color=171515">
+  <a href="https://github.com/Nemupy">
+    <img height="20" src="https://img.shields.io/badge/Github-Nemupy-Nemupy?logo=github&style=flat&color=171515">
   </a>
   <a href="http://twitter.com/Nemu627">
     <img height="20" src="https://img.shields.io/badge/Twitter-Nemu627-Nemu627?logo=twitter&style=flat&color=00acee">
@@ -40,9 +40,9 @@ Nemu = MyProfile()
 Nemu.hello()
 ```
 
-<img src="https://github-widgetbox.vercel.app/api/profile?username=Nemu627&data=followers,repositories,stars,commits">
+<img src="https://github-widgetbox.vercel.app/api/profile?username=Nemupy&data=followers,repositories,stars,commits">
 
 <p align="center">
-  <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=Nemu627&show_icons=ture&bg_color=50,e96443,904e95&title_color=fff&text_color=fff">
-  <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nemu627&layout=compact&show_icons=true&bg_color=50,e96443,904e95&title_color=fff&text_color=fff">
+  <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=Nemupy&show_icons=ture&bg_color=50,e96443,904e95&title_color=fff&text_color=fff">
+  <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nemupy&layout=compact&show_icons=true&bg_color=50,e96443,904e95&title_color=fff&text_color=fff">
 </p>
