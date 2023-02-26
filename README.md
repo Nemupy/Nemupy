@@ -26,18 +26,18 @@ import random
 
 class MyProfile:
     def __init__(self):
-        self.name = "音夢?!"
-        self.langs = ["Python", "JavaScript", "Java", "Ruby"]
-        self.repos = ["CuBot-Discord", "Janken", "Hello-World","UA-framer", "Str-measure", "Publiscord"]
+        self.name = "Nemupy"
+        self.langs = ["Python", "C#"]
+        self.repos = ["CuBot", "Janken", "Hello-World"]
         
     def hello(self):
         repo = random.choice(self.repos)
         print(f"Hello! I'm {self.name}.")
         print(f"I love {self.langs[0]}, and more!")
-        print(f"Please check https://github.com/Nemu627/{repo}.")
+        print(f"Please check https://github.com/Nemupy/{repo}.")
 
-Nemu = MyProfile()
-Nemu.hello()
+Nemupy = MyProfile()
+Nemupy.hello()
 ```
 
 <img src="https://github-widgetbox.vercel.app/api/profile?username=Nemupy&data=followers,repositories,stars,commits">
