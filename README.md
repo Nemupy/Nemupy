@@ -10,14 +10,14 @@
   <a href="https://www.youtube.com/channel/UC__UciLKa61MymGRfA7IGxg">
     <img height="20" src="https://img.shields.io/badge/YouTube-%E9%9F%B3%E5%A4%A2%3F%21-Nemu627?logo=youtube&style=flat&color=c4302b">
   </a>
-  <a href="https://discord.gg/5fHDJwVhWb">
+  <a href="https://discordapp.com/users/798439010594717737">
     <img height="20" src="https://img.shields.io/badge/Discord-Nemupy-Nemupy?logo=discord&style=flat&color=7289DA">
   </a>
 </div>
 
 <br>
 
-<a href="https://discordapp.com/users/798439010594717737">
+<a href="https://discord.gg/5fHDJwVhWb">
   <img align="right" src="https://discordapp.com/api/guilds/902525668615663636/widget.png?style=banner4">
 </a>
 
