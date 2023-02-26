@@ -17,7 +17,7 @@
 
 <br>
 
-<a href="https://discord.gg/5fHDJwVhWb">
+<a href="https://discordapp.com/users/798439010594717737">
   <img align="right" src="https://discordapp.com/api/guilds/902525668615663636/widget.png?style=banner4">
 </a>
 
