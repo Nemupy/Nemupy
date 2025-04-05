@@ -4,12 +4,6 @@
   <a href="https://github.com/Nemupy">
     <img height="20" src="https://img.shields.io/badge/Github-Nemupy-Nemupy?logo=github&style=flat&color=171515">
   </a>
-  <a href="http://twitter.com/iNemupy">
-    <img height="20" src="https://img.shields.io/badge/Twitter-iNemupy-iNemupy?logo=twitter&style=flat&color=00acee">
-  </a>
-  <a href="https://www.youtube.com/channel/@Nemupy">
-    <img height="20" src="https://img.shields.io/badge/YouTube-Nemupy-Nemupy?logo=youtube&style=flat&color=c4302b">
-  </a>
   <a href="https://discordapp.com/users/798439010594717737">
     <img height="20" src="https://img.shields.io/badge/Discord-Nemupy-Nemupy?logo=discord&style=flat&color=7289DA">
   </a>
@@ -39,10 +33,3 @@ class MyProfile:
 Nemupy = MyProfile()
 Nemupy.hello()
 ```
-
-<img src="https://github-widgetbox.vercel.app/api/profile?username=Nemupy&data=followers,repositories,stars,commits">
-
-<p align="center">
-  <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=Nemupy&show_icons=ture&bg_color=50,e96443,904e95&title_color=fff&text_color=fff">
-  <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nemupy&layout=compact&show_icons=true&bg_color=50,e96443,904e95&title_color=fff&text_color=fff">
-</p>
