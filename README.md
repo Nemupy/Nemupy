@@ -25,9 +25,10 @@ class MyProfile:
         self.repos = ["CuBot", "Janken", "Hello-World"]
         
     def hello(self):
+        love = random.choice(self.loves)
         repo = random.choice(self.repos)
         print(f"Hello! I'm {self.name}.")
-        print(f"I love {self.langs[0]}, and more!")
+        print(f"I love {love}, and more!")
         print(f"Please check https://github.com/Nemupy/{repo}.")
 
 nemupy = MyProfile()
