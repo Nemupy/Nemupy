@@ -21,7 +21,7 @@ import random
 class MyProfile:
     def __init__(self):
         self.name = "Nemupy"
-        self.langs = ["Python", "C#"]
+        self.loves = ["Python", "MYUKKE.", "KAWAII LAB."]
         self.repos = ["CuBot", "Janken", "Hello-World"]
         
     def hello(self):
@@ -30,6 +30,6 @@ class MyProfile:
         print(f"I love {self.langs[0]}, and more!")
         print(f"Please check https://github.com/Nemupy/{repo}.")
 
-Nemupy = MyProfile()
-Nemupy.hello()
+nemupy = MyProfile()
+nemupy.hello()
 ```
